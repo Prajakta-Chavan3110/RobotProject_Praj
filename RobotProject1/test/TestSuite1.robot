@@ -20,6 +20,10 @@ MySecondTest
 MyThirdTest  
     [Tags]    examplehttp://download.eclipse.org/egit/updates/http://download.eclipse.org/egit/updates/http://download.eclipse.org/egit/updates/http://download.eclipse.org/egit/updates/http://download.eclipse.org/egit/updates/http://download.eclipse.org/egit/updates/http://download.eclipse.org/egit/updates/http://download.eclipse.org/egit/updates/http://download.eclipse.org/egit/updates/  
     Log    3rd test    
+MyFourthTest  
+    [Tags]    examplehttp://download.eclipse.org/egit/updates/http://download.eclipse.org/egit/updates/http://download.eclipse.org/egit/updates/http://download.eclipse.org/egit/updates/http://download.eclipse.org/egit/updates/http://download.eclipse.org/egit/updates/http://download.eclipse.org/egit/updates/http://download.eclipse.org/egit/updates/http://download.eclipse.org/egit/updates/  
+    Log    4th test    
+
 # FirstSeleniumTest
     # Open Browser    https://google.com    chrome
     # Input Text    name=q            Automation step by step
